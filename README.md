@@ -4,7 +4,7 @@ ENG/
 
 The Java Converter project was a challenge proposed to class 3 of the Oracle Next Education project, aiming to certify the knowledge that was acquired during the learning track on the Java language.
 
-It was proposed to make a monetary converter, however, we were free to add any new features to the project. I ended up adding the temperature converter, to Fahrenheit and to Kelvin, I also added the possibility to calculate your BMI from your weight in KG, it is still under development the possibility to calculate from Libras.
+It was proposed to make a monetary converter, however, we were free to add any new features to the project. I ended up adding the temperature converter, to Fahrenheit and to Kelvin, I also added the possibility to calculate your BMI from your weight in kilograms, it is still under development the possibility to calculate from Libras.
 
 PT-BR/
 
